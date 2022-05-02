@@ -115,10 +115,10 @@ Name pronunciation: Phoeno Suen"
       url: "feinuo.sun@msvu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/PhoenoSun"
+      url: "https://twitter.com/PhoenoSun/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/feinuo-sun-007145a3/"
+      url: "https://www.linkedin.com/in/feinuo-sun-007145a3/"
 
 # Site Footer
 footer:
