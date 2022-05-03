@@ -8,8 +8,9 @@ header:
   actions:
     - label: "Learn about me"
       url: "https://feinuosun.github.io/aboutme/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.
+excerpt: 
+  "Welcome to know me and my work and experiences! Look forward to be connected.
+Name pronunciation: Phoeno Suen."
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
