@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feinuo Sun"
+title                    : "Feinuo Sun 孙斐诺"
 title_separator          : 
 subtitle                 : "Latest update: 05/02/2022"
 name                     : "Feinuo Sun"
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feinuo Sun (She/her/hers)"
+  name             : "Feinuo Sun 孙斐诺 (she/her/hers)"
   avatar           : "/assets/images/Profile pic_FS.jpeg"
   bio              : "A demographer, rural sociologist, and health researcher.
 Name pronunciation: Phoeno Suen"
