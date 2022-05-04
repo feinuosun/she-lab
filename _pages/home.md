@@ -11,4 +11,6 @@ header:
 excerpt: 
   "Welcome to know me, my interests, work and experiences! Look forward to be connected.
 Name pronunciation: Phoeno Suen."
+---
 
+{% include feature_row %}
