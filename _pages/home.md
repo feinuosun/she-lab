@@ -9,7 +9,7 @@ header:
     - label: "Learn about me now"
       url: "https://feinuosun.github.io/aboutme/"
 excerpt: 
-  "Welcome to know me, my interests, work and experiences! Look forward to be connected. (I am thinking of adding an instruction video here but haven't done with it yet:laughing:)."
+  "Welcome to know me, my interests, work and experiences! Look forward to be connected. (I am thinking of adding an instruction video here but haven't done with it yet:smile:)."
 ---
 
 {% include feature_row %}
