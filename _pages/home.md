@@ -9,7 +9,7 @@ header:
     - label: "Learn about me now"
       url: "https://feinuosun.github.io/aboutme/"
 excerpt: 
-  "I am a demographer and sociologist interested in health and pain disparities. Look forward to being connected. (I am thinking of adding an instruction video here but haven't finished it yet_(:з」∠)_)."
+  "I am a demographer and sociologist in health and pain disparities. Look forward to being connected. (I am thinking of adding an instruction video here but haven't finished it yet_(:з」∠)_)."
 ---
 
 {% include feature_row %}
