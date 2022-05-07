@@ -125,6 +125,8 @@ Name pronunciation: Phoeno Suen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PhoenoSun/"
+    - label: Back to top
+      url: "#top"
 
 
 # Site Footer
@@ -146,9 +148,6 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PhoenoSun/"
 
-navigation_footer:
-- title: Back to top
-  url: "#top"
 
 # Reading Files
 include:
