@@ -11,7 +11,7 @@ My research fits in the framework of social determinants of population health ou
   <figcaption>Social determinants of health</figcaption>
 </figure>
 
-My past and ongoing research projects cover a variety of health outcomes including pain and pain-related conditions, opioid crisis outcomes, COVID-19, and others. 
+My past and ongoing research projects cover a variety of health outcomes including pain and pain-related conditions, opioid crisis outcomes, COVID-19 outcomes, and others. 
 
 ## Pain and pain-related conditions
 
@@ -21,7 +21,7 @@ My past and ongoing research projects cover a variety of health outcomes includi
 
 ### How pain distributes geographically?
 
-## Opioid crisis outcomes
+## Opioid crisis
 
 ### Opioid prescribing
 
