@@ -20,8 +20,7 @@ title                    : "Feinuo Sun 孙斐诺"
 title_separator          : 
 subtitle                 : "Latest update: 05/04/2022"
 name                     : "Feinuo Sun"
-description              : "Welcome to know me and my work and experiences! Look forward to be connected.
-Name pronunciation: Phoeno Suen"
+description              : "Welcome to know me and my work! Look forward to being connected."
 url                      : "https://feinuosun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "feinuosun/feinuosun.github.io"
@@ -147,7 +146,7 @@ footer:
       url: "https://twitter.com/PhoenoSun/"
 
   navigation_footer:
-    - label: "Back to top"
+    - title: Back to top
       url: "#top"
 
 # Reading Files
