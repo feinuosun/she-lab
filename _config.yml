@@ -99,6 +99,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+google_analytics: <Feinuo Sun>
 
 # Site Author
 author:
