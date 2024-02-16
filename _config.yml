@@ -66,7 +66,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : false
 google:
   search_engine_id       : b70dc3200f59bd573
   instant_search         : # false (default), true
@@ -104,10 +104,10 @@ google_analytics: <Feinuo Sun>
 # Site Author
 author:
   name             : "Feinuo Sun, Ph.D. 孙斐诺 (she/her/hers)"
-  avatar           : "/assets/images/Profile pic_FS.jpeg"
+  avatar           : "/assets/images/headshot_FS.png"
   bio              : "Assistant Professor of Public Health
-  A population health scientist, demographer, and sociologist. 
-  Name pronunciation: Phoeno Suen"
+                     (A population health scientist, demographer, and sociologist. 
+                     Name pronunciation: Phoeno Suen)"
   location         : "University of Texas at Arlington"
   email            :
   links:
