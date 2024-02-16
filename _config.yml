@@ -133,6 +133,7 @@ author:
 footer:
   links:
     - label: "feinuo.sun@uta.edu"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto: feinuo.sun@uta.edu"
 
 
