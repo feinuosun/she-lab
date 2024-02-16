@@ -4,12 +4,12 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/homepage.jpg
+  overlay_image: 
   actions:
-    - label: "Learn about me now"
-      url: "https://feinuosun.github.io/aboutme/"
+    - label: "Learn about our research now"
+      url: "https://feinuosun.github.io/research/"
 excerpt: 
-  "I am a demographer and sociologist in health disparities. Look forward to being connected. (I am thinking of adding an instruction video here but haven't finished it yet_(:з」∠)_)."
+  "Welcome to the Spatial Health Equity (SHE) lab led by Dr. Feinuo Sun! We are dedicated to addressing spatial disparities in population health outcomes, with a particular focus on chronic pain and its associated consequences such as disability and substance addiction. Our current research aims to understanding the multifaceted spatial dimensions (e.g., rural/urban, natural environments, policies and neighborhood characteristics) that shape pain disparities at both individual and ecological levels."
 ---
 
 {% include feature_row %}
