@@ -132,8 +132,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "feinuo.sun@uta.edu"
       url: "mailto: feinuo.sun@uta.edu"
 
 
