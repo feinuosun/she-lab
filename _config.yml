@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Spatial Health Equity (SHE) Lab"
+title                    : "Spatial Health Equity Lab"
 title_separator          : 
-subtitle                 : "Addressing spatial disparities in population health"
+subtitle                 : "Led by Dr. Feinuo Sun"
 name                     : "Feinuo Sun"
 description              : "Welcome to know me and my work! Look forward to being connected."
-url                      : "https://sun-shelab.github.io"
+url                      : "https://feinuosun.github.io/she-lab"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "feinuosun/sun-shelab.github.io"
+repository               : "feinuosun/she-lab"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/spatial logo.png"
 masthead_title           : "Spatial Health Equity (SHE) Lab" 
