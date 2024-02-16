@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About me"
-    url: https://feinuosun.github.io/aboutme/
-  - title: "CV"
-    url: https://feinuosun.github.io/assets/images/CV_Sun.pdf
+  - title: "People"
+    url: https://feinuosun.github.io/people/
   - title: "Research"
     url: https://feinuosun.github.io/research/
-  - title: "Teaching"
-    url: https://feinuosun.github.io/teaching/
+  - title: "Publications"
+    url: https://feinuosun.github.io/publications/
   - title: "Outreach"
     url: https://feinuosun.github.io/outreach/
+  - title: "CV of Feinuo Sun"
+    url: https://feinuosun.github.io/assets/images/CV_Sun.pdf
