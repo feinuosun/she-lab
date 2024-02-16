@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feinuo Sun 孙斐诺"
+title                    : "Spatial Health Equity (SHE) Lab"
 title_separator          : 
-subtitle                 : "Latest update: 09/20/2022"
+subtitle                 : "Addressing spatial disparities in population health outcomes"
 name                     : "Feinuo Sun"
 description              : "Welcome to know me and my work! Look forward to being connected."
 url                      : "https://feinuosun.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "feinuosun/feinuosun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg"
-masthead_title           : "Home" 
+masthead_title           : "Spatial Health Equity" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
