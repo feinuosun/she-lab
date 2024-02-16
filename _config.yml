@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "en-US"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "feinuosun/feinuosun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg"
-masthead_title           : "Spatial Health Equity" 
+masthead_title           : "Spatial Health Equity (SHE) Lab" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,19 +105,22 @@ google_analytics: <Feinuo Sun>
 author:
   name             : "Feinuo Sun, Ph.D. 孙斐诺 (she/her/hers)"
   avatar           : "/assets/images/Profile pic_FS.jpeg"
-  bio              : "A demographer, rural sociologist, and health researcher.
-Name pronunciation: Phoeno Suen"
-  location         : "NS, Canada"
+  bio              : "Assistant Professor of Public Health at the University of Texas at Arlington. 
+  A population health scientist, demographer, and sociologist. Name pronunciation: Phoeno Suen"
+    location         : "Arlington, TX"
   email            :
   links:
+    - label: "Faculty Page"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.uta.edu/academics/faculty/profile?username=sunf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: feinuo.sun@msvu.ca"
+      url: "mailto: feinuo.sun@uta.edu"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Feinuo-Sun"
     - label: "GoogleScholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=Pbai3e4AAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -132,19 +135,8 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: feinuo.sun@msvu.ca"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Feinuo-Sun"
-    - label: "GoogleScholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.ca/citations?user=Pbai3e4AAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/feinuo-sun-007145a3/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/PhoenoSun/"
+      url: "mailto: feinuo.sun@uta.edu"
+
 
   navigation_footer:
     - title: Back to top
