@@ -1,6 +1,6 @@
 ---
-title: "About me"
-permalink: /aboutme/
+title: "People"
+permalink: /people/
 
 ---
 
