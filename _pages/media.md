@@ -1,6 +1,6 @@
 ---
-title: "Outreach"
-permalink: /outreach/
+title: "Media"
+permalink: /media/
 ---
 
 ## CAnD3
