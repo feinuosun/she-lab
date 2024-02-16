@@ -105,13 +105,13 @@ google_analytics: <Feinuo Sun>
 author:
   name             : "Feinuo Sun, Ph.D. 孙斐诺 (she/her/hers)"
   avatar           : "/assets/images/Profile pic_FS.jpeg"
-  bio              : "Assistant Professor of Public Health at the University of Texas at Arlington. 
+  bio              : "Assistant Professor of Public Health
   A population health scientist, demographer, and sociologist. Name pronunciation: Phoeno Suen"
   location         : "Arlington, TX"
   email            :
   links:
     - label: "Faculty Page"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.uta.edu/academics/faculty/profile?username=sunf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Feinuo-Sun"
     - label: "GoogleScholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=Pbai3e4AAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
