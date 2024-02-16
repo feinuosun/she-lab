@@ -107,7 +107,7 @@ author:
   avatar           : "/assets/images/Profile pic_FS.jpeg"
   bio              : "Assistant Professor of Public Health at the University of Texas at Arlington. 
   A population health scientist, demographer, and sociologist. Name pronunciation: Phoeno Suen"
-    location         : "Arlington, TX"
+  location         : "Arlington, TX"
   email            :
   links:
     - label: "Faculty Page"
