@@ -1,8 +1,21 @@
 ---
-title: "People"
+title: "Principal Investigator"
 permalink: /people/
 
 ---
+<figure>
+  <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="framework">
+</figure>
+
+**Feinuo Sun, Ph.D.**
+Assistant Professor
+Public Health Program, Department of Kinesiology
+College of Nursing and Health Innovation
+The University of Texas at Arlington
+Maverick Activities Center (MAC) 227
+Box 19259, 500 W. Nedderman Drive, Arlington, Texas 76019
+
+# Graduate Research Assistants
 
 I am a postdoctoral fellow at the [Global Aging and Community Intiative](https://globalagingandcommunity.com), Mount Saint Vincent University, Canada, working for the NIH-funded R01 project [Demography of Chronic Pain](https://globalagingandcommunity.com/projects/demography-of-aging-and-pain/) with Drs. Zachary Zimmer, Anna Zajacova, and Hanna Grol-Prokopczyk, and also one of the 2021-2022 fellow of the [Consortium on Analytics for Data-Driven Decision-Making (CAnD3)](https://www.mcgill.ca/cand3/), Mcgill University, Canada. I am on the 2022-2023 academic job market.
 
