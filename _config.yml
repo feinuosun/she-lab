@@ -25,7 +25,7 @@ url                      : "https://feinuosun.github.io/she-lab"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "feinuosun/she-lab"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/spatial logo.png"
+logo                     : "/assets/images/rural urban logo.png"
 masthead_title           : "Spatial Health Equity (SHE) Lab" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
