@@ -1,6 +1,6 @@
 ---
-title: "Principal Investigator"
 permalink: /people/
+title: "Principal Investigator"
 
 ---
 ![](profile.png)
