@@ -21,7 +21,7 @@ title_separator          :
 subtitle                 : "Led by Dr. Feinuo Sun"
 name                     : "Feinuo Sun"
 description              : "Welcome to know me and my work! Look forward to being connected."
-url                      : "https://feinuosun.github.io/she-lab"
+url                      : "https://feinuosun.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "feinuosun/she-lab"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
