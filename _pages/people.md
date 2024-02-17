@@ -3,11 +3,9 @@ title: "Principal Investigator"
 permalink: /people/
 
 ---
-<figure>
-  <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="framework">
-</figure>
+![](profile.png)
 
-###Feinuo Sun, Ph.D.
+### Feinuo Sun, Ph.D.
 Assistant Professor\
 Public Health Program, Department of Kinesiology\
 College of Nursing and Health Innovation\
