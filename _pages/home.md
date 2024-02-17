@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/maps4.jpeg
+  overlay_image: /assets/images/homepage.jpg
   actions:
     - label: "Learn about our research now"
       url: "https://feinuosun.github.io/she-lab/research/"
