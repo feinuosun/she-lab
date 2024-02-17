@@ -12,7 +12,7 @@ College of Nursing and Health Innovation\
 The University of Texas at Arlington\
 Maverick Activities Center (MAC) 227\
 Box 19259, 500 W. Nedderman Drive, Arlington, Texas 76019\
-Email: feinuo.sun@uta.edu
+Email: feinuo.sun@uta.edu\
 My [CV](https://github.com/feinuosun/she-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
 
 # Graduate Research Assistants
