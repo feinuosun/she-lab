@@ -8,7 +8,7 @@ Our research fits in the broad framework of Social Determinants of Health (SDOH)
 Our current research is mainly about the **spatial/geographic dimension** (the largest two levels in the SDOH framework) of chronic pain outcomes among older adults. 
 ![](home_framework.png)
  
-## Rural-Urban Difference in Chronic Pain of Older Adults
+## Rural-Urban Difference in Chronic Pain
 The burden of pain can be particularly high in rural areas due to the disproportionate shares of older and poorer health people and healthcare shortages compared to urban areas. The  pilot project fills the gap by examining the rural-urban and within-rural disparities in pain prevalence and how compositional and contextual factors explain these disparities. We use individual-level data from the Health and Retirement Study (HRS) linked with neighborhood-level data from the census, American Community Survey, National Neighborhood Data Archive, and Rural-Urban Commuting Area codes. The project aims to answer two questions: 1) How does the prevalence of pain differ across the rural-urban continuum? 2) How do neighborhood demographic composition and socioenvironmental characteristics explain the disparities in the prevalence of pain? The findings would be critical for policymaking and resource allocation to address health disparities and promote healthy aging. 
 
 ## State-Level Policies and Chronic Pain
