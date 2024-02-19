@@ -6,7 +6,7 @@ toc: true
 
 Our research fits in the broad framework of Social Determinants of Health (SDOH). The framework incorporates *demographic characteristics* (i.e., age, sex, and race), *socioeconomic status* (e.g., education and income), *interpersonal relationships* (e.g., family arrangements and social networks), *natural, built, and social environments* (e.g., place-based characteristics, such as rural-urban residence), as well as *societal contexts* (e.g., policies, laws, and social norms). 
 
-Our current research is mainly about the **spatial/geographic dimension** (the largest two levels in the SDOH framework) of chronic pain outcomes among older adults. We focus on both individual- and ecological-level outcomes.
+Our current research is mainly about the **spatial/geographic dimension** (the first two highest levels in the SDOH framework) of chronic pain outcomes among older adults. We focus on both individual- and ecological-level outcomes.
 ![](home_framework.png)
  
 ## Rural-Urban Difference in Chronic Pain
