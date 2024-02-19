@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 title: "Principal Investigator"
-
+toc: true
 ---
 ![](profile.png)
 
