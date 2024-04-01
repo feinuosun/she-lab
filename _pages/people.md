@@ -16,7 +16,19 @@ Email: feinuo.sun@uta.edu\
 My [CV](https://github.com/feinuosun/she-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
 
 # Collaborators
+![](zoe.ipeg)
+### Rui (Zoe) Huang
+PhD Candidate\
+Department of Sociology\
+University at Buffalo, State University of New York
 
 # Graduate Research Assistants
+![](anita.ipeg)
+### Anika Tasnim Khan 
+Master of Public Health Student\
+Department of Kinesiology\
+The University of Texas at Arlington
 
+# Undergraduate Research Assistants
 
+# Lab alumni
