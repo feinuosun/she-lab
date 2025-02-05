@@ -15,7 +15,7 @@ Box 19259, 500 W. Nedderman Drive, Arlington, Texas 76019\
 Email: feinuo.sun@uta.edu\
 My [CV](https://github.com/feinuosun/she-lab/blob/main/assets/images/CV_Sun_Feb%202024.pdf)
 
-# Collaborators
+# Research fellows
 ![](zoe.jpeg)
 ### Rui (Zoe) Huang
 PhD Candidate\
@@ -28,7 +28,6 @@ PhD in Computer Science\
 The University of Texas at Arlington
 
 # Graduate Research Assistants
-
 
 # Undergraduate Research Assistants
 
