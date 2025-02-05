@@ -9,8 +9,7 @@ header:
     - label: "Learn about our research now"
       url: "https://feinuosun.github.io/she-lab/research/"
 excerpt: 
-  "Welcome to the Spatial Health Equity (SHE) lab led by Dr. Feinuo Sun at UTA. We are dedicated to addressing spatial disparities in population health outcomes, with a particular focus on chronic pain and its associated consequences such as disability and substance addiction. Our current research aims to understand the multifaceted spatial dimensions (e.g., rural/urban, natural environments, policies, and neighborhood features) that shape pain disparities at both individual and ecological levels.
-  Want to join us? Please contact feinuo.sun@uta.edu."
+  "Welcome to the Spatial Health Equity (SHE) lab led by Dr. Feinuo Sun at UTA. We are dedicated to addressing spatial disparities in population health outcomes, with a particular focus on chronic pain and its associated consequences such as disability and substance addiction. Our current research aims to understand the multifaceted spatial dimensions (e.g., rural/urban, natural environments, policies, and neighborhood features) that shape pain disparities at both individual and ecological levels."
 ---
 
 {% include feature_row %}
