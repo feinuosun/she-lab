@@ -28,10 +28,10 @@ PhD in Computer Science\
 The University of Texas at Arlington
 
 # Graduate Research Assistants
-
+TBD
 # Undergraduate Research Assistants
+TBD
 
 # Lab alumni
-### Anika Tasnim Khan 
-Master of Public Health Student\
-The University of Texas at Arlington
+Anika Tasnim Khan 
+
