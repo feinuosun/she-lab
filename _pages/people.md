@@ -22,13 +22,17 @@ PhD Candidate\
 Department of Sociology\
 University at Buffalo, State University of New York
 
-# Graduate Research Assistants
-![](anika.jpeg)
-### Anika Tasnim Khan 
-Master of Public Health Student\
-Department of Kinesiology\
+![](akib.jpeg)
+### Akib Zaman
+PhD in Computer Science\
 The University of Texas at Arlington
+
+# Graduate Research Assistants
+
 
 # Undergraduate Research Assistants
 
 # Lab alumni
+### Anika Tasnim Khan 
+Master of Public Health Student\
+The University of Texas at Arlington
