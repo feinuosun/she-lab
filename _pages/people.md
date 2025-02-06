@@ -32,6 +32,6 @@ TBD
 # Undergraduate Research Assistants
 TBD
 
-# Lab alumni
-Anika Tasnim Khan 
+# Lab Alumni
+Anika Tasnim Khan (GRA)
 
